@@ -49,3 +49,15 @@ localizeapi.com
 klipy.com
 modrinth.com
 github.com
+pack.fishonmc.net
+*.wynncraft.com
+*.wynntils.com
+forums.wynncraft.com
+*.cloudfront.net
+launcherupdates.lunarclientcdn.com
+*.akamaiedge.net
+launcherassets.lunarclientprod.com
+analytics.lunarclientprod.com
+feathermc.com
+*.feathercdn.net
+*.feathermc.net
