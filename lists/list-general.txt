@@ -61,3 +61,4 @@ analytics.lunarclientprod.com
 feathermc.com
 *.feathercdn.net
 *.feathermc.net
+neoscripts.qzz.io
