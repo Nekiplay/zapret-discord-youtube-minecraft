@@ -50,6 +50,7 @@ klipy.com
 modrinth.com
 github.com
 pack.fishonmc.net
+play.fishonmc.net
 *.wynncraft.com
 *.wynntils.com
 forums.wynncraft.com
@@ -62,3 +63,6 @@ feathermc.com
 *.feathercdn.net
 *.feathermc.net
 neoscripts.qzz.io
+rp-cdn.wynncraft.com
+*.tm-azurefd.net
+tcpshield.net
