@@ -66,3 +66,8 @@ neoscripts.qzz.io
 rp-cdn.wynncraft.com
 *.tm-azurefd.net
 tcpshield.net
+repo.codemc.io
+repo.nea.moe
+live.albiononline.com
+assets.albiononline.com
+albiononline.com
